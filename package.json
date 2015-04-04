@@ -1,0 +1,24 @@
+{
+  "name": "defprop",
+  "version": "0.1.0",
+  "description": "Basic property definition utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deanlandolt/defprop.git"
+  },
+  "keywords": [
+    "define",
+    "properties",
+    "memoize"
+  ],
+  "author": "Dean Landolt <dean@deanlandolt.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deanlandolt/defprop/issues"
+  },
+  "homepage": "https://github.com/deanlandolt/defprop"
+}
